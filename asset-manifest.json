@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myJSONrobofriends/static/css/main.8db7a790.css",
+    "main.js": "/myJSONrobofriends/static/js/main.7b6a2e81.js",
+    "static/js/787.32032a02.chunk.js": "/myJSONrobofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/myJSONrobofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/myJSONrobofriends/index.html",
+    "main.8db7a790.css.map": "/myJSONrobofriends/static/css/main.8db7a790.css.map",
+    "main.7b6a2e81.js.map": "/myJSONrobofriends/static/js/main.7b6a2e81.js.map",
+    "787.32032a02.chunk.js.map": "/myJSONrobofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db7a790.css",
+    "static/js/main.7b6a2e81.js"
+  ]
+}
